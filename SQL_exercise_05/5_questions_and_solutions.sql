@@ -1,5 +1,5 @@
 -- https://en.wikibooks.org/wiki/SQL_Exercises/Pieces_and_providers
-
+5.6 is puzzling!!!
 show tables;
 
 select * from Pieces;
